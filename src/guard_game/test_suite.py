@@ -35,7 +35,7 @@ class TestSuite:
         n = 6471289
         r = solution.answer(n)
         print '  input:\t', n
-        print '  expect:\t', 37
+        print '  expect:\t', 1
         print '  output:\t', r
         print
         
